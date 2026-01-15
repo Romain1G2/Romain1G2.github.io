@@ -29,7 +29,7 @@ flex-direction: column;
         display: flex;       
         align-items: flex-start; 
         align-content: space-around;
-        gap: 70px;           
+        gap: 50px;           
         padding: 60px 30px 30px 30px;
 
     }
